@@ -1,0 +1,237 @@
+(footprint "SOT96P240X115-3N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SOT-23_aaaa")
+	(tags "MOSFET (P-Channel)")
+	(property "Reference" "Q**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "4151bcff-0984-499f-a12a-4c8d44ec8432")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SOT96P240X115-3N"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f9668165-38b2-4a91-8a17-f77a34def21c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56b1919c-4148-4e37-9a52-c403dcf58e0b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41413041-262a-4784-884e-59f3f058babe")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.675 -1.51)
+		(end -0.525 -1.51)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5c35a212-f40d-49ba-8396-ef2a26e70955")
+	)
+	(fp_line
+		(start -0.175 -1.45)
+		(end 0.175 -1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7d158abc-374f-491e-94cd-5fbee796d332")
+	)
+	(fp_line
+		(start -0.175 1.45)
+		(end -0.175 -1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0af4fee5-e9c0-47e5-9046-46ffc6a00569")
+	)
+	(fp_line
+		(start 0.175 -1.45)
+		(end 0.175 1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3939bdb-79f7-45bd-ac8a-0779391ffbaf")
+	)
+	(fp_line
+		(start 0.175 1.45)
+		(end -0.175 1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8a941a6c-25c9-4df2-92ee-7e47fa696c48")
+	)
+	(fp_line
+		(start -1.925 -1.75)
+		(end 1.925 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e1df5081-b430-4503-9b59-51d4aecc11a5")
+	)
+	(fp_line
+		(start -1.925 1.75)
+		(end -1.925 -1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "93a85a2a-12a7-4fa4-9a1e-dcadd4377c69")
+	)
+	(fp_line
+		(start 1.925 -1.75)
+		(end 1.925 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "32d14436-6a82-4f37-bf88-3d052a0b37e3")
+	)
+	(fp_line
+		(start 1.925 1.75)
+		(end -1.925 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7ffa981d-3651-4c14-aaff-b6b223c56c36")
+	)
+	(fp_line
+		(start -0.65 -1.45)
+		(end 0.65 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7ff4444a-c58b-4615-ba54-590355eb7b7e")
+	)
+	(fp_line
+		(start -0.65 -0.49)
+		(end 0.31 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f598b87a-c02a-4bcf-9115-3221e374b967")
+	)
+	(fp_line
+		(start -0.65 1.45)
+		(end -0.65 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8dae1367-fc96-435c-a533-0061ee059dd5")
+	)
+	(fp_line
+		(start 0.65 -1.45)
+		(end 0.65 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6246d6de-124c-4b96-9736-61804aa27982")
+	)
+	(fp_line
+		(start 0.65 1.45)
+		(end -0.65 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1f46a158-687e-4730-abae-f123237f3fd5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "52695b0f-235e-435b-adaa-a08efbe49c58")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.1 -0.96 90)
+		(size 0.6 1.15)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3996dc64-eaa3-4a27-b0fb-2f59336d9f24")
+	)
+	(pad "2" smd rect
+		(at -1.1 0.96 90)
+		(size 0.6 1.15)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "268450f0-75db-436c-aa09-674afe531cce")
+	)
+	(pad "3" smd rect
+		(at 1.1 0 90)
+		(size 0.6 1.15)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "83aa97b9-3c7f-46c2-9744-404cfbf7e56d")
+	)
+	(embedded_fonts no)
+	(model "DMG2301L-7.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

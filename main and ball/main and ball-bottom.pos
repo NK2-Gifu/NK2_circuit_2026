@@ -1,0 +1,27 @@
+### Footprint positions - created on 2026-02-17T00:45:23+0900 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val        Package                                     PosX       PosY       Rot  Side
+IC1       TSSP58038  TSSP58038                                83.4867   -40.0702    0.0000  bottom
+IC2       TSSP58038  TSSP58038                               125.9549   -67.9675  -67.0000  bottom
+IC3       TSSP58038  TSSP58038                               116.1649  -118.0432  -135.0000  bottom
+IC4       TSSP58038  TSSP58038                                66.9204  -128.3613  158.0000  bottom
+IC5       TSSP58038  TSSP58038                               100.9467   -43.3399  -22.0000  bottom
+IC6       TSSP58038  TSSP58038                               129.6594   -84.8756  -90.0000  bottom
+IC7       TSSP58038  TSSP58038                               102.0196  -128.9946  -157.0000  bottom
+IC8       TSSP58038  TSSP58038                                51.9204  -118.8837  135.0000  bottom
+IC9       TSSP58038  TSSP58038                               116.2003   -53.4315  -45.0000  bottom
+IC10      TSSP58038  TSSP58038                               126.4120  -102.6334  -112.0000  bottom
+IC11      TSSP58038  TSSP58038                                84.4042  -131.9974  180.0000  bottom
+IC12      TSSP58038  TSSP58038                                41.6431  -104.1083  113.0000  bottom
+IC13      TSSP58038  TSSP58038                                37.7820   -86.1137   90.0000  bottom
+IC14      TSSP58038  TSSP58038                                40.9643   -68.1245   68.0000  bottom
+IC15      TSSP58038  TSSP58038                                51.5518   -52.9392   45.0000  bottom
+IC16      TSSP58038  TSSP58038                                66.0358   -43.3081   23.0000  bottom
+J3        kiccer     JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical    69.8000  -108.1750    0.0000  bottom
+J4        neopixel   JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical    94.2800   -57.1700  180.0000  bottom
+J5        power      JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical   102.5700  -100.6400    0.0000  bottom
+J6        Line_uart  JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical    58.6500   -91.0700    0.0000  bottom
+J9        hokaku     JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical    58.4100   -99.6400    0.0000  bottom
+## End
